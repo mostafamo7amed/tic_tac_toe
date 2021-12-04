@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rest_game">Rest Game</string>
+    <string name="playerOneState">Player One Winning!</string>
+    <string name="playerTwoState">Player Two Winning!</string>
+    <string name="single">Single</string>
+    <string name="multiplayer">MultiPlayer</string>
+</resources>

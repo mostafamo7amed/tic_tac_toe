@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="player_one">Player One</string>
+    <string name="player_two">Player Two</string>
+    <string name="rest_game">Rest Game</string>
+    <string name="playerOneState">Player One Winning!</string>
+    <string name="playerTwoState">Player Two Winning!</string>
+    <string name="draw">Draw</string>
+    <string name="single">Single</string>
+    <string name="multiplayer">MultiPlayer</string>
+
+</resources>
